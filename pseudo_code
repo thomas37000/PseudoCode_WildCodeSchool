@@ -1,11 +1,20 @@
-calcul maxBonbons ( Prix && Argent > 0 ) {
-  Prix = 1,6;
-  Argent= 14,3;
-  
-  var nbBonbons = Argent / Prix;
-  if nbBonbons > 15; 
-    false;
-  while nbBonbons < 15;
-    right;
-      End;
+var prixBonbon => 0;
+var argentReel => 0;
+var MaxBonbons ( prixBonbon,argentReel );
+
+while maxBonbons <= argentReel {
+  true;
+  break;
+} else {
+  stop no more money !;
 }
+
+
+  
+  
+
+
+
+
+
+
