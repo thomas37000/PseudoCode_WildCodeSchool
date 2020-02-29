@@ -1,16 +1,13 @@
-var prixBonbon => 0;
-var argentReel => 0;
-var MaxBonbons ( prixBonbon,argentReel );
-
-while maxBonbons <= argentReel {
-  true;
-  break;
-} else {
-  stop no more money !;
-}
-
-
-  
+Début
+  var prixBonbon;
+  var argentReel;
+  var maxBonbons;
+    prixBonbons && argentReel > 0;
+    
+while prixBonbons <= argentReel 
+  Acheter maxBonbons;
+  maxBonbons = maxBonbons + 1;  
+Fin 
   
 
 
