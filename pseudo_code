@@ -6,8 +6,9 @@ Début
     
 while prixBonbons <= argentReel 
   Acheter maxBonbons;
-  maxBonbons = maxBonbons + 1;  
-Fin 
+  maxBonbons = maxBonbons + 1;
+  résultat maxBonbons;
+Fin while
   
 
 
