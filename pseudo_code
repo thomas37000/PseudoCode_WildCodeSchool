@@ -1,18 +1,11 @@
-Début
-  var prixBonbon;
-  var argentReel;
-  var maxBonbons;
+Début( prixBonbon, argentReel )
+  
+  var maxBonbons = 0;
     prixBonbons && argentReel > 0;
     
 while prixBonbons <= argentReel 
-  Acheter maxBonbons;
-  maxBonbons = maxBonbons + 1;
-  résultat maxBonbons;
-Fin while
   
-
-
-
-
-
-
+  maxBonbons = maxBonbons + 1;
+Fin While
+  retourner resultat
+  
